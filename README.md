@@ -10,7 +10,7 @@ In order to install Android Studio on Ubuntu, you have to install it through the
 ### Step 1: Update apt cache
 Prior to installing any new package or application, it is recommended to update the apt cache with the command:
 
-$ sudo apt update
+> $ sudo apt update
 
 ![image](https://user-images.githubusercontent.com/86001337/201341740-5d449ace-ca96-4eb4-b7b0-3f84d8fbfffe.png)
 
