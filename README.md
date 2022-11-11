@@ -7,12 +7,15 @@ This guide provides a brief tutorial about installing and using Android Studio o
 Install Android Studio on Ubuntu 20.04
 In order to install Android Studio on Ubuntu, you have to install it through the repository. Follow the below-given steps to install the Android Studio on Ubuntu 20.04 by adding repository:
 
-Step 1: Update apt cache
+### Step 1: Update apt cache
 Prior to installing any new package or application, it is recommended to update the apt cache with the command:
 
 $ sudo apt update
 
-Step 2: Install Java Development Kit
+![image](https://user-images.githubusercontent.com/86001337/201341740-5d449ace-ca96-4eb4-b7b0-3f84d8fbfffe.png)
+
+
+### Step 2: Install Java Development Kit
 Android Studio requires Java Development Kit to be functional. We need to install the JDK, before installing Android Studio using the following command:
 
 $ sudo apt install openjdk-11-jdk
